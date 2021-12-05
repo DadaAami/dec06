@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: linear-gradient(90deg, #0e3959 0%, #0e3959 30%, #03a9f5 10%, #03a9f5 100%);
+}
+
+.ct-section-head {
+    color: #fff;
+}
