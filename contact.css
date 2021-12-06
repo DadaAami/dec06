@@ -11,3 +11,54 @@ body {
 .ct-section-head {
     color: #fff;
 }
+
+i {
+    font-size: 20px;
+    color: lightcoral;
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
+
+.ingo {
+    position: relative;
+}
+
+.absloute1 {
+    position: absolute;
+    top: 4px;
+    left: 16px;
+    font-size: 18px;
+}
+
+.absloute2 {
+    position: absolute;
+    top: 138px;
+    left: 16px;
+    font-size: 18px;
+}
+
+.absloute3 {
+    position: absolute;
+    top: 272px;
+    left: 16px;
+    font-size: 18px;
+}
+
+.ingo h2 {
+    margin: 10px;
+}
+
+.phone,
+.email,
+.location {
+    margin-bottom: 20px;
+}
+
+.contact-info {
+    margin-left: 50px;
+}
+
+.ct-section-head {
+    margin-bottom: 50px;
+    text-align: center;
+}
